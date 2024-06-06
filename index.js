@@ -1,4 +1,5 @@
-    var x=5;
-    console.log(x);
+var x = 5;
+console.log("El valor de x es:", x);
 
-//MUY BONITO CODIGO
+var suma = x + 10;
+console.log("La suma de x y 10 es:", suma);
